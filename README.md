@@ -1,1 +1,1 @@
-# study-scala-camel
+# trial-scala-camel
